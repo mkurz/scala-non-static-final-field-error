@@ -8,4 +8,8 @@ public class HomeController {
   public Result foo(final String param1) {
     return Results.ok("foo");
   }
+
+  public Result bar() {
+    return Results.ok("bar");
+  }
 }
