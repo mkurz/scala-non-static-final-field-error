@@ -27,11 +27,13 @@ import scala.collection.immutable..colon.colon;
 import scala.reflect.ScalaSignature;
 
 @ScalaSignature(
-   bytes = "\u0006\u0005\u0005%b\u0001\u0002\b\u0010\u0001IA\u0001\"\b\u0001\u0003\u0006\u0004%\tE\b\u0005\tO\u0001\u0011\t\u0011)A\u0005?!A\u0001\u0006\u0001B\u0001B\u0003%\u0011\u0006\u0003\u00050\u0001\t\u0015\r\u0011\"\u00011\u0011!q\u0004A!A!\u0002\u0013\t\u0004\"B \u0001\t\u0003\u0001\u0005\"B \u0001\t\u00031\u0005\"\u0002*\u0001\t\u0003\u0019\u0006B\u0002,\u0001A\u0003%\u0011\u0007C\u0003X\u0001\u0011\u0005\u0001\f\u0003\u0005f\u0001!\u0015\r\u0015\"\u0003g\u0011!a\b\u0001#b!\n\u0013i\bbBA\b\u0001\u0011\u0005\u0011\u0011\u0003\u0002\u0007%>,H/Z:\u000b\u0003A\tQ\u0001[3mY>\u001c\u0001a\u0005\u0002\u0001'A\u0011AcG\u0007\u0002+)\u0011acF\u0001\be>,H/\u001b8h\u0015\tA\u0012$\u0001\u0003d_J,'\"\u0001\u000e\u0002\tAd\u0017-_\u0005\u00039U\u0011qbR3oKJ\fG/\u001a3S_V$XM]\u0001\rKJ\u0014xN\u001d%b]\u0012dWM]\u000b\u0002?A\u0011\u0001%J\u0007\u0002C)\u0011!eI\u0001\u0005QR$\bO\u0003\u0002%3\u0005\u0019\u0011\r]5\n\u0005\u0019\n#\u0001\u0005%uiB,%O]8s\u0011\u0006tG\r\\3s\u00035)'O]8s\u0011\u0006tG\r\\3sA\u0005\u0001\u0002j\\7f\u0007>tGO]8mY\u0016\u0014x\f\r\t\u0003U5j\u0011a\u000b\u0006\u0002Y\u0005Y1m\u001c8ue>dG.\u001a:t\u0013\tq3F\u0001\bI_6,7i\u001c8ue>dG.\u001a:\u0002\rA\u0014XMZ5y+\u0005\t\u0004C\u0001\u001a<\u001d\t\u0019\u0014\b\u0005\u00025o5\tQG\u0003\u00027#\u00051AH]8pizR\u0011\u0001O\u0001\u0006g\u000e\fG.Y\u0005\u0003u]\na\u0001\u0015:fI\u00164\u0017B\u0001\u001f>\u0005\u0019\u0019FO]5oO*\u0011!hN\u0001\baJ,g-\u001b=!\u0003\u0019a\u0014N\\5u}Q!\u0011i\u0011#F!\t\u0011\u0005!D\u0001\u0010\u0011\u0015ib\u00011\u0001 \u0011\u0015Ac\u00011\u0001*\u0011\u0015yc\u00011\u00012)\r\tu\t\u0013\u0005\u0006;\u001d\u0001\ra\b\u0005\u0006Q\u001d\u0001\r!\u000b\u0015\u0003\u000f)\u0003\"a\u0013)\u000e\u00031S!!\u0014(\u0002\r%t'.Z2u\u0015\u0005y\u0015!\u00026bm\u0006D\u0018BA)M\u0005\u0019IeN[3di\u0006Qq/\u001b;i!J,g-\u001b=\u0015\u0005\u0005#\u0006\"B+\t\u0001\u0004\t\u0014!C1eIB\u0013XMZ5y\u00035!WMZ1vYR\u0004&/\u001a4jq\u0006iAm\\2v[\u0016tG/\u0019;j_:,\u0012!\u0017\t\u00045~\u000bW\"A.\u000b\u0005qk\u0016!C5n[V$\u0018M\u00197f\u0015\tqv'\u0001\u0006d_2dWm\u0019;j_:L!\u0001Y.\u0003\t1K7\u000f\u001e\t\u0006E\u000e\f\u0014'M\u0007\u0002o%\u0011Am\u000e\u0002\u0007)V\u0004H.Z\u001a\u0002K\r|g\u000e\u001e:pY2,'o]0I_6,7i\u001c8ue>dG.\u001a:`M>|\u0007g\u0018:pkR,W#A4\u0013\u0007!t\u0017O\u0002\u0003j\u0001\u00019'\u0001\u0004\u001fsK\u001aLg.Z7f]Rt\u0014BA6m\u0003\u0015\t\u0007\u000f\u001d7z\u0015\tiW#A\u0003S_V$X\r\u0005\u0002c_&\u0011\u0001o\u000e\u0002\u0007\u0003:L(+\u001a4\u0011\u0005IThBA:z\u001d\t!\bP\u0004\u0002vo:\u0011AG^\u0005\u00025%\u0011\u0001$G\u0005\u0003-]I!!\\\u000b\n\u0005md'a\u0004)be\u0006l7/\u0012=ue\u0006\u001cGo\u001c:\u0002O\r|g\u000e\u001e:pY2,'o]0I_6,7i\u001c8ue>dG.\u001a:`M>|\u0007gX5om>\\WM]\u000b\u0002}B!Ac`A\u0002\u0013\r\t\t!\u0006\u0002\u000f\u0011\u0006tG\r\\3s\u0013:4xn[3s!\u0011\t)!a\u0003\u000e\u0005\u0005\u001d!bAA\u00053\u0005\u0019QN^2\n\t\u00055\u0011q\u0001\u0002\u0007%\u0016\u001cX\u000f\u001c;\u0002\rI|W\u000f^3t+\t\t\u0019\u0002E\u0004c\u0003+\tI\"a\t\n\u0007\u0005]qGA\bQCJ$\u0018.\u00197Gk:\u001cG/[8o!\u0011\tY\"a\b\u000e\u0005\u0005u!bAA\u0005G%!\u0011\u0011EA\u000f\u00055\u0011V-];fgRDU-\u00193feB!\u00111DA\u0013\u0013\u0011\t9#!\b\u0003\u000f!\u000bg\u000e\u001a7fe\u0002"
+   bytes = "\u0006\u0005\u0005]b\u0001\u0002\t\u0012\u0001QA\u0001b\b\u0001\u0003\u0006\u0004%\t\u0005\t\u0005\tS\u0001\u0011\t\u0011)A\u0005C!A!\u0006\u0001B\u0001B\u0003%1\u0006\u0003\u00052\u0001\t\u0015\r\u0011\"\u00013\u0011!\u0001\u0005A!A!\u0002\u0013\u0019\u0004\"B!\u0001\t\u0003\u0011\u0005\"B!\u0001\t\u0003A\u0005\"\u0002+\u0001\t\u0003)\u0006B\u0002-\u0001A\u0003%1\u0007C\u0003Z\u0001\u0011\u0005!\f\u0003\u0005h\u0001!\u0015\r\u0015\"\u0003i\u0011!q\b\u0001#b!\n\u0013y\bBCA\n\u0001!\u0015\r\u0015\"\u0003\u0002\u0016!I\u00111\u0004\u0001\t\u0006\u0004&Ia \u0005\b\u0003;\u0001A\u0011AA\u0010\u0005\u0019\u0011v.\u001e;fg*\t!#A\u0003iK2dwn\u0001\u0001\u0014\u0005\u0001)\u0002C\u0001\f\u001e\u001b\u00059\"B\u0001\r\u001a\u0003\u001d\u0011x.\u001e;j]\u001eT!AG\u000e\u0002\t\r|'/\u001a\u0006\u00029\u0005!\u0001\u000f\\1z\u0013\tqrCA\bHK:,'/\u0019;fIJ{W\u000f^3s\u00031)'O]8s\u0011\u0006tG\r\\3s+\u0005\t\u0003C\u0001\u0012(\u001b\u0005\u0019#B\u0001\u0013&\u0003\u0011AG\u000f\u001e9\u000b\u0005\u0019Z\u0012aA1qS&\u0011\u0001f\t\u0002\u0011\u0011R$\b/\u0012:s_JD\u0015M\u001c3mKJ\fQ\"\u001a:s_JD\u0015M\u001c3mKJ\u0004\u0013\u0001\u0005%p[\u0016\u001cuN\u001c;s_2dWM]01!\tas&D\u0001.\u0015\u0005q\u0013aC2p]R\u0014x\u000e\u001c7feNL!\u0001M\u0017\u0003\u001d!{W.Z\"p]R\u0014x\u000e\u001c7fe\u00061\u0001O]3gSb,\u0012a\r\t\u0003iur!!N\u001e\u0011\u0005YJT\"A\u001c\u000b\u0005a\u001a\u0012A\u0002\u001fs_>$hHC\u0001;\u0003\u0015\u00198-\u00197b\u0013\ta\u0014(\u0001\u0004Qe\u0016$WMZ\u0005\u0003}}\u0012aa\u0015;sS:<'B\u0001\u001f:\u0003\u001d\u0001(/\u001a4jq\u0002\na\u0001P5oSRtD\u0003B\"F\r\u001e\u0003\"\u0001\u0012\u0001\u000e\u0003EAQa\b\u0004A\u0002\u0005BQA\u000b\u0004A\u0002-BQ!\r\u0004A\u0002M\"2aQ%K\u0011\u0015yr\u00011\u0001\"\u0011\u0015Qs\u00011\u0001,Q\t9A\n\u0005\u0002N%6\taJ\u0003\u0002P!\u00061\u0011N\u001c6fGRT\u0011!U\u0001\u0006U\u00064\u0018\r_\u0005\u0003':\u0013a!\u00138kK\u000e$\u0018AC<ji\"\u0004&/\u001a4jqR\u00111I\u0016\u0005\u0006/\"\u0001\raM\u0001\nC\u0012$\u0007K]3gSb\fQ\u0002Z3gCVdG\u000f\u0015:fM&D\u0018!\u00043pGVlWM\u001c;bi&|g.F\u0001\\!\ra\u0016mY\u0007\u0002;*\u0011alX\u0001\nS6lW\u000f^1cY\u0016T!\u0001Y\u001d\u0002\u0015\r|G\u000e\\3di&|g.\u0003\u0002c;\n!A*[:u!\u0015!WmM\u001a4\u001b\u0005I\u0014B\u00014:\u0005\u0019!V\u000f\u001d7fg\u0005)3m\u001c8ue>dG.\u001a:t?\"{W.Z\"p]R\u0014x\u000e\u001c7fe~3wn\u001c\u0019`e>,H/Z\u000b\u0002SJ\u0019!\u000e]:\u0007\t-\u0004\u0001!\u001b\u0002\ryI,g-\u001b8f[\u0016tGOP\u0005\u0003[:\fQ!\u00199qYfT!a\\\f\u0002\u000bI{W\u000f^3\u0011\u0005\u0011\f\u0018B\u0001::\u0005\u0019\te.\u001f*fMB\u0011A\u000f \b\u0003knt!A\u001e>\u000f\u0005]LhB\u0001\u001cy\u0013\u0005a\u0012B\u0001\u000e\u001c\u0013\tA\u0012$\u0003\u0002p/%\u0011QP\u001c\u0002\u0010!\u0006\u0014\u0018-\\:FqR\u0014\u0018m\u0019;pe\u000693m\u001c8ue>dG.\u001a:t?\"{W.Z\"p]R\u0014x\u000e\u001c7fe~3wn\u001c\u0019`S:4xn[3s+\t\t\t\u0001E\u0003\u0017\u0003\u0007\t9!C\u0002\u0002\u0006]\u0011a\u0002S1oI2,'/\u00138w_.,'\u000f\u0005\u0003\u0002\n\u0005=QBAA\u0006\u0015\r\tiaG\u0001\u0004[Z\u001c\u0017\u0002BA\t\u0003\u0017\u0011aAU3tk2$\u0018!J2p]R\u0014x\u000e\u001c7feN|\u0006j\\7f\u0007>tGO]8mY\u0016\u0014xLY1sc}\u0013x.\u001e;f+\t\t9B\u0005\u0003\u0002\u001aA\u001ch!B6\u0001\u0001\u0005]\u0011aJ2p]R\u0014x\u000e\u001c7feN|\u0006j\\7f\u0007>tGO]8mY\u0016\u0014xLY1sc}KgN^8lKJ\faA]8vi\u0016\u001cXCAA\u0011!\u001d!\u00171EA\u0014\u0003cI1!!\n:\u0005=\u0001\u0016M\u001d;jC24UO\\2uS>t\u0007\u0003BA\u0015\u0003[i!!a\u000b\u000b\u0007\u00055Q%\u0003\u0003\u00020\u0005-\"!\u0004*fcV,7\u000f\u001e%fC\u0012,'\u000f\u0005\u0003\u0002*\u0005M\u0012\u0002BA\u001b\u0003W\u0011q\u0001S1oI2,'\u000f"
 )
 public class Routes extends GeneratedRouter {
    private ParamsExtractor hello$Routes$$controllers_HomeController_foo0_route;
    private HandlerInvoker<Result> hello$Routes$$controllers_HomeController_foo0_invoker;
+   private ParamsExtractor hello$Routes$$controllers_HomeController_bar1_route;
+   private HandlerInvoker<Result> hello$Routes$$controllers_HomeController_bar1_invoker;
    private final HttpErrorHandler errorHandler;
    public final HomeController hello$Routes$$HomeController_0;
    private final String prefix;
@@ -53,7 +55,7 @@ public class Routes extends GeneratedRouter {
    }
 
    public List<Tuple3<String, String, String>> documentation() {
-      return (List)((LinearSeqOps)(new colon(new Tuple3("GET", (new StringBuilder(11)).append(this.prefix()).append(this.prefix().endsWith("/") ? "" : "/").append("$").append("param1<.+>").toString(), "controllers.HomeController.foo(param1:String)"), new colon(scala.collection.immutable.Nil..MODULE$, scala.collection.immutable.Nil..MODULE$)))).foldLeft(scala.collection.immutable.List..MODULE$.empty(), (s, e) -> {
+      return (List)((LinearSeqOps)(new colon(new Tuple3("GET", (new StringBuilder(11)).append(this.prefix()).append(this.prefix().endsWith("/") ? "" : "/").append("$").append("param1<.+>").toString(), "controllers.HomeController.foo(param1:String)"), new colon(new Tuple3("GET", (new StringBuilder(19)).append(this.prefix()).append(this.prefix().endsWith("/") ? "" : "/").append("just-a-second-route").toString(), "controllers.HomeController.bar()"), new colon(scala.collection.immutable.Nil..MODULE$, scala.collection.immutable.Nil..MODULE$))))).foldLeft(scala.collection.immutable.List..MODULE$.empty(), (s, e) -> {
          List var2;
          if (e instanceof Tuple3) {
             Tuple3 var4 = (Tuple3)e;
@@ -78,7 +80,6 @@ public class Routes extends GeneratedRouter {
          throw var3;
       }
 
-      this.defaultPrefix = null;
       return this.hello$Routes$$controllers_HomeController_foo0_route;
    }
 
@@ -107,6 +108,46 @@ public class Routes extends GeneratedRouter {
       return (byte)(this.bitmap$0 & 2) == 0 ? this.controllers_HomeController_foo0_invoker$lzycompute() : this.hello$Routes$$controllers_HomeController_foo0_invoker;
    }
 
+   private ParamsExtractor controllers_HomeController_bar1_route$lzycompute() {
+      synchronized(this){}
+
+      try {
+         if ((byte)(this.bitmap$0 & 4) == 0) {
+            this.hello$Routes$$controllers_HomeController_bar1_route = play.core.routing.Route..MODULE$.apply("GET", new PathPattern((Seq)(new colon(new StaticPart(this.prefix()), new colon(new StaticPart(this.defaultPrefix), new colon(new StaticPart("just-a-second-route"), scala.collection.immutable.Nil..MODULE$))))));
+            this.bitmap$0 = (byte)(this.bitmap$0 | 4);
+         }
+      } catch (Throwable var3) {
+         throw var3;
+      }
+
+      return this.hello$Routes$$controllers_HomeController_bar1_route;
+   }
+
+   public ParamsExtractor hello$Routes$$controllers_HomeController_bar1_route() {
+      return (byte)(this.bitmap$0 & 4) == 0 ? this.controllers_HomeController_bar1_route$lzycompute() : this.hello$Routes$$controllers_HomeController_bar1_route;
+   }
+
+   private HandlerInvoker<Result> controllers_HomeController_bar1_invoker$lzycompute() {
+      synchronized(this){}
+
+      try {
+         if ((byte)(this.bitmap$0 & 8) == 0) {
+            this.hello$Routes$$controllers_HomeController_bar1_invoker = this.createInvoker(() -> {
+               return this.hello$Routes$$HomeController_0.bar();
+            }, new HandlerDef(this.getClass().getClassLoader(), "hello", "controllers.HomeController", "bar", scala.collection.immutable.Nil..MODULE$, "GET", (new StringBuilder(19)).append(this.prefix()).append("just-a-second-route").toString(), " Workaround by adding a second route", (Seq)scala.collection.immutable.Seq..MODULE$.apply(scala.collection.immutable.Nil..MODULE$)), play.core.routing.HandlerInvokerFactory..MODULE$.wrapJava());
+            this.bitmap$0 = (byte)(this.bitmap$0 | 8);
+         }
+      } catch (Throwable var3) {
+         throw var3;
+      }
+
+      return this.hello$Routes$$controllers_HomeController_bar1_invoker;
+   }
+
+   public HandlerInvoker<Result> hello$Routes$$controllers_HomeController_bar1_invoker() {
+      return (byte)(this.bitmap$0 & 8) == 0 ? this.controllers_HomeController_bar1_invoker$lzycompute() : this.hello$Routes$$controllers_HomeController_bar1_invoker;
+   }
+
    public PartialFunction<RequestHeader, Handler> routes() {
       return new Serializable(this) {
          private static final long serialVersionUID = 0L;
@@ -126,6 +167,18 @@ public class Routes extends GeneratedRouter {
                }
             }
 
+            if (x1 != null) {
+               Option var7 = this.$outer.hello$Routes$$controllers_HomeController_bar1_route().unapply(x1);
+               if (!var7.isEmpty()) {
+                  var3 = this.$outer.call(() -> {
+                     return this.$outer.hello$Routes$$controllers_HomeController_bar1_invoker().call(() -> {
+                        return this.$outer.hello$Routes$$HomeController_0.bar();
+                     });
+                  });
+                  return var3;
+               }
+            }
+
             var3 = var2.apply(x1);
             return var3;
          }
@@ -135,6 +188,14 @@ public class Routes extends GeneratedRouter {
             if (x1 != null) {
                Option var4 = this.$outer.hello$Routes$$controllers_HomeController_foo0_route().unapply(x1);
                if (!var4.isEmpty()) {
+                  var2 = true;
+                  return var2;
+               }
+            }
+
+            if (x1 != null) {
+               Option var5 = this.$outer.hello$Routes$$controllers_HomeController_bar1_route().unapply(x1);
+               if (!var5.isEmpty()) {
                   var2 = true;
                   return var2;
                }
